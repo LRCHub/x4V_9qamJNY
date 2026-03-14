@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "デマゴーグ",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-03-14T14:09:16.267232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デマゴーグ",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/01_デマゴーグ_キタニタツヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "デマゴーグ",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/02_デマゴーグ_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デマゴーグ",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_デマゴーグ_キタニタツヤ.txt"
+    }
+  ]
+}
